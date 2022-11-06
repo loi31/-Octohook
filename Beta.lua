@@ -1,5 +1,4 @@
-
--- // Protected by luaGuard - Security Level god
+-- // Protected by luaGuard - Security Level Premium
 
 -- This file was generated using Luraph Obfuscator v13.5.8
 
